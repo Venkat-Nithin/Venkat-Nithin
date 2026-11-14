@@ -77,7 +77,7 @@ Working on full-stack product development, contributing to an ONDC buyer applica
 
 ### 🚀 Projects
 
-## Prepify – AI Interview Assistant
+### Prepify – AI Interview Assistant
 
 An AI-powered interview preparation platform that simulates real-time interviews and provides personalized feedback.
 
